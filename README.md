@@ -1,0 +1,2 @@
+# .github
+SQLFluff Organization README
